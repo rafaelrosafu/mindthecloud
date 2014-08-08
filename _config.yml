@@ -1,7 +1,7 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Mind the Cloud
+description:      What's between us and the future?
 logo:             site-logo.png
-disqus_shortname:
+disqus_shortname: mindthecloud
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
@@ -9,23 +9,23 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Rafael Rosa
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          rafael@mindthecloud.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        rafaelrosafu
   facebook:
-  github:
+  github:         rafaelrosafu
   stackexchange:
-  linkedin:
+  linkedin:       rafaelrosafu
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus:    https://plus.google.com/100041050642671088559
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-7340111-3
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -37,10 +37,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Grok Podcast
+    url: http://grokpodcast.com
     external: true
 
 future:      true
@@ -51,7 +49,7 @@ gems:
   - jekyll-sitemap
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title.html
 
 kramdown:
   auto_ids: true
