@@ -1,3 +1,6 @@
+.bundle/
+bin/
+vendor/
 _site
 .DS_Store
 *.sublime-project
