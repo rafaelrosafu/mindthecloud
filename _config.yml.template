@@ -1,5 +1,5 @@
-title:            Mind the Cloud
-description:      What's between you and the future?
+title:            Site Title
+description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,23 +9,23 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Rafael Rosa
+  name:           Your Name
   avatar:         bio-photo.jpg
-  email:          rafael@mindthecloud.com
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        rafaelrosafu
+  twitter:
   facebook:
-  github:         rafaelrosafu
+  github:
   stackexchange:
-  linkedin:       rafaelrosafu
+  linkedin:
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/100041050642671088559
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -37,8 +37,10 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Grok Podcast
-    url: http://grokpodcast.com
+  - title: Theme Setup
+    url: /theme-setup/
+  - title: Made Mistakes
+    url: http://mademistakes.com
     external: true
 
 future:      true
@@ -49,7 +51,7 @@ gems:
   - jekyll-sitemap
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:day/:title.html
+permalink:   /:categories/:title/
 
 kramdown:
   auto_ids: true
