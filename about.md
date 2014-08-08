@@ -1,32 +1,26 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: "About"
+tags: []
+modified: 2014-08-07
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+The future is in the cloud. Or at least a part of it.
 
-## So Simple Theme is all about:
+Hello, I'm Rafael Rosa, I've been working with IT since the last milenium (1995) and since 2009 I've been working in the hosting and cloud industry.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/so-simple-theme/articles/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
+Even though I started as a software developer, the wind changed and led me to work in product related roles, most of the time working on public IaaS products as product manager. I've also participate in software communities, talk at events, [co-host a podcast for developers in Portuguese](http://grokpodcast.com) and advise decision makers regarding the cloud market.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Since moving to the dark side I've been watching the industry and related fields to figure out what's coming ahead, and this involves gathering a lot of info (reading, listening, going to events and community meetups, coding) and coming up with educated guesses about the future. I'm planning to share some of these opinions on this site and perhaps record some podcasts along the way.
 
-[^1]: Example: *domain.com/category-name/post-title*
+Right now I live in Montreal/Canada, but I'm originaly from São Paulo/Brazil, where I work at [eNovance](http://enovance.com), a company specialized in [OpenStack](http://openstack.org), acquired by Red Hat in June 2014.
+
+I hope you enjoy the content, feedback is welcome, trolling is not tolerated.
+
+Please leave comments, follow me on [@rafaelrosafu](https://twitter.com/rafaelrosafu) or contact me on rafael at mindthecloud.com.
+
+## Disclaimer
+
+To be clear, these are my personal opinions, they do not (necessarily) match those of my employer and there's no official connection between the two.
