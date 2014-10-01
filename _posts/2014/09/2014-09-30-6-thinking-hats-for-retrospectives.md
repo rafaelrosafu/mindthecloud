@@ -4,9 +4,9 @@ title: "6 Thinking Hats for Retrospectives"
 modified: 2014-09-30 20:37:17 -0400
 tags: [agile,retrospectives]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
@@ -49,4 +49,6 @@ Of course, only having an action list won't fix the problems, the team must be a
 
 I really like this technique and I would like to have feedback from people using it, so I can learn from other experiences and we can improve it. To make things easier I make myself available to help you run a retrospective on your team, I can act as the facilitator for a session, explain the process and be an impartial observer, free of charge. Of course, due to logistical issues this would be done remotely over Google Hangouts or similar app, it will depend on fitting it to my schedule, and I'm limited to English, Portuguese and French sessions only, but it's a start :)
 
-I would also be more than happy to just talk about it too. You can get in touch with me on [@rafaelrosafu](https://twitter.com/rafaelrosafu) or by e-mail on [contact@mindthecloud.com](mailto:contact@mindthecloud.com), or you can leave a comment bellow.
+If you want to learn more about retrospectives I recommend taking a look at [Paulo Caroli's "Fun Retrospectives"](http://goo.gl/JQ02vP) e-book, he showcases different techniques that can be used in retrospectives and even other situations, it's pretty interesting and can complement or substitue the Thiking Hats method.
+
+You can get in touch with me on [@rafaelrosafu](https://twitter.com/rafaelrosafu) or by e-mail on [contact@mindthecloud.com](mailto:contact@mindthecloud.com), or you can leave a comment bellow.
