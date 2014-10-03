@@ -31,7 +31,7 @@ Each color represents one aspect of the subject being discussed:
 
 The original explanation of the colors differs a bit, but these are good enough. The rule is that when people are talking they must be "wearing" of the hats, and whatever they say must be restricted to the aspect it represents. By making the aspect explicit the discussion flows better, reduces misunderstandings and allows a more rational dialogue.
 
-Adapting the technique to the agile world, and retrospectives in particular, we split the meeting in timeboxes named after each hat and everybody uses the same hat at each turn. We then order then in a way that is good to recap the sprint and think about how to improve for the future, in this case:
+Adapting the technique to the agile world, and retrospectives in particular, we split the meeting in timeboxes named after each hat and everybody uses the same hat at each turn. We then order them in a way that is good to recap the sprint and think about how to improve for the future, in this case:
 
 * Blue Hat - Meta, ground rules, recap of the timebox and goal of the meeting
 * White Hat - What happened during the sprint? Just the facts
@@ -45,10 +45,10 @@ By timeboxing each hat we "guarantee" that the meeting will have a pre-defined d
 
 Of course, only having an action list won't fix the problems, the team must be able to execute them, but that's left as an exercise for the reader. I've made a presentation with a quick explanation of the process with more operational details, you can see it bellow, it can be used to share the idea with more people, including using it to explain the process to a team.
 
-<iframe src="//slides.com/rafaelrosa/6hatsretrospective/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/39852325" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 I really like this technique and I would like to have feedback from people using it, so I can learn from other experiences and we can improve it. To make things easier I make myself available to help you run a retrospective on your team, I can act as the facilitator for a session, explain the process and be an impartial observer, free of charge. Of course, due to logistical issues this would be done remotely over Google Hangouts or similar app, it will depend on fitting it to my schedule, and I'm limited to English, Portuguese and French sessions only, but it's a start :)
 
-If you want to learn more about retrospectives I recommend taking a look at [Paulo Caroli's "Fun Retrospectives"](http://goo.gl/JQ02vP) e-book, he showcases different techniques that can be used in retrospectives and even other situations, it's pretty interesting and can complement or substitue the Thiking Hats method.
+If you want to learn more about retrospectives I recommend taking a look at [Paulo Caroli's "Fun Retrospectives"](http://goo.gl/JQ02vP) e-book, he showcases different techniques that can be used in retrospectives and even other situations, it's pretty interesting and can complement or substitute the Thinking Hats method.
 
 You can get in touch with me on [@rafaelrosafu](https://twitter.com/rafaelrosafu) or by e-mail on [contact@mindthecloud.com](mailto:contact@mindthecloud.com), or you can leave a comment bellow.
