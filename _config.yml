@@ -38,8 +38,9 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Blog
+    url: http://blog.mindthecloud.com
+    external: true
   - title: Grok Podcast
     url: http://grokpodcast.com
     external: true
