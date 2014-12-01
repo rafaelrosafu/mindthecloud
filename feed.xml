@@ -22,6 +22,7 @@ layout: none
   <itunes:category text="Technology">
   </itunes:category>
 {% for post in site.posts %}
+  {% unless post.invisible %}
   <item>
     <title>{{ post.title | cdata_escape }}</title>
     <description><![CDATA[{{ post.content | xml_escape }}]]></description>
@@ -35,6 +36,7 @@ layout: none
     <itunes:duration>{{ post.mp3_duration }}</itunes:duration>
     <itunes:keywords>{{ post.tags | join: ',' }}</itunes:keywords>
   </item>
+  {% endunless %}
 {% endfor %}
 </channel>
 </rss>
