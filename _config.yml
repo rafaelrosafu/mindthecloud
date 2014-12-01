@@ -24,6 +24,9 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/100041050642671088559
 
+# iTunes specific configs
+itunes_summary: "Mind the Cloud, the podcast about the developers and companies using the cloud to create the future."
+
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-7340111-3
 google_verify:
@@ -47,6 +50,7 @@ markdown:    kramdown
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title.html
