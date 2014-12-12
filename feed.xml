@@ -18,7 +18,7 @@ layout: none
     <itunes:name>{{ site.owner.name }}</itunes:name>
     <itunes:email>{{ site.owner.email }}</itunes:email>
   </itunes:owner>
-  <itunes:image href="{{ site.base_url }}/images/mindthecloud-logo-solid-white.png" />
+  <itunes:image href="{{ site.base_url }}/images/mindthecloud-logo-1400x1400.png" />
   <itunes:category text="Technology">
   </itunes:category>
 {% for post in site.posts %}
