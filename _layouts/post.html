@@ -45,9 +45,9 @@
         <span><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}"><i class="icon-link"></i> Permalink</a></span>
         {% if page.share %}
         <span class="social-share-facebook">
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" itemprop="Facebook"><i class="icon-facebook-sign"></i> Like</a></span>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.base_url }}{{ page.url }}" title="Share on Facebook" itemprop="Facebook"><i class="icon-facebook-sign"></i> Like</a></span>
         <span class="social-share-twitter">
-            <a href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: ',' | remove: ' ' }}&text={{ page.title | escape | replace:' ','%20' }}&url={{ site.url }}{{ page.url }}&via={{site.owner.twitter}}" title="Share on Twitter" itemprop="Twitter"><i class="icon-twitter-sign"></i> Tweet</a></span>
+            <a href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: ',' | remove: ' ' }}&text={{ page.title | escape | replace:' ','%20' }}&url={{ site.base_url }}{{ page.url }}&via={{site.owner.twitter}}" title="Share on Twitter" itemprop="Twitter"><i class="icon-twitter-sign"></i> Tweet</a></span>
         <span class="social-share-googleplus">
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus" itemprop="GooglePlus"><i class="icon-google-plus-sign"></i> +1</a></span>
             <!-- /.social-share -->{% endif %}
@@ -74,7 +74,7 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}	        
+{% include scripts.html %}
 
 </body>
 </html>
