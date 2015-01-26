@@ -25,7 +25,7 @@ layout: none
   {% unless post.invisible %}
   <item>
     <title>{{ post.title | cdata_escape }}</title>
-    <description><![CDATA[{{ post.content }}]]></description>
+    <description><![CDATA[{{ post.content | markdownify }}]]></description>
     <itunes:image href="{{ site.base_url }}/images/mindthecloud-logo-solid-white.png" />
     <itunes:author>Rafael Rosa</itunes:author>
     <itunes:subtitle><![CDATA[{{ post.content | xml_escape | truncate: 250 }}]]></itunes:subtitle>
