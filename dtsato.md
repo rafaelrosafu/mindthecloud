@@ -17,4 +17,8 @@ In my spare time I enjoy reading and performing magic tricks and playing the pia
 
 You can follow me on [@dtsato](http://www.twitter.com/dtsato), or read some of my articles on [my blog](http://www.dtsato.com/blog), on [ThoughtWorks' blog](http://www.thoughtworks.com/insights), or on [Martin Fowler's site](https://www.google.com/search?q=danilo+sato&sitesearch=martinfowler.com).
 
+### Contacts
+* [@dtsato on Twitter](https://twitter.com/dtsato)
+* [danilosato on LinkedIn](https://linkedin.com/in/danilosato/en)
+
 More info and disclaimers on the [about page](/about).
