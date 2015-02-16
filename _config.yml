@@ -40,6 +40,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
+  - title: Danilo Sato
+    url: /dtsato/
+  - title: Rafael Rosa Fu
+    url: /rafaelrosafu/
   - title: Blog
     url: http://blog.mindthecloud.com
     external: true
