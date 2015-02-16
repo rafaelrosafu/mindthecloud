@@ -9,20 +9,20 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Rafael Rosa
+  name:           "Danilo Sato & Rafael Rosa"
   avatar:         bio-photo.jpg
-  email:          rafael@mindthecloud.com
+  email:          contact@mindthecloud.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        rafaelrosafu
+  twitter:        _MindTheCloud
   facebook:
-  github:         rafaelrosafu
+  github:
   stackexchange:
-  linkedin:       rafaelrosafu
+  linkedin:
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/100041050642671088559
+  google_plus:
 
 # iTunes specific configs
 itunes_summary: "Mind the Cloud, the podcast about the developers and companies using the cloud to create the future."
@@ -44,12 +44,6 @@ links:
     url: /dtsato/
   - title: Rafael Rosa Fu
     url: /rafaelrosafu/
-  - title: Blog
-    url: http://blog.mindthecloud.com
-    external: true
-  - title: Grok Podcast
-    url: http://grokpodcast.com
-    external: true
 
 future:      true
 highlighter: pygments
